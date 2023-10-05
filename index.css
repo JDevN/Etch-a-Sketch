@@ -1,0 +1,13 @@
+
+.header{
+    text-align: center;
+}
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 20px;
+    height: 20px;
+    border: solid 3px black;
+    margin: auto;
+}
